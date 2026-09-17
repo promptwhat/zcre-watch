@@ -258,7 +258,7 @@ li.r{{border-left:4px solid var(--r)}} li.o{{border-left:4px solid var(--o)}} p{
 b.r,b.o{{font-size:12px;padding:2px 7px;border-radius:99px;color:#fff;background:var(--r)}} b.o{{background:var(--o)}}
 .cd{{color:var(--r);font-weight:600}} a{{color:inherit}}
 </style></head><body><main>
-<h1>🐰 지크(zcre) 리셋·혜택 알리미</h1><p class="mut">비공식 팬 페이지 · 공식 <a href="{PROFILE}">스레드</a>와 <a href="https://zcre.co.kr">사이트</a>를 15분마다 확인해 모아요 · 마지막 확인 {t:%m/%d %H:%M} KST{warn}<br>사이트 배너: {e(" / ".join(st.get("banners", [])) or "없음")}</p>
+<h1>🐰 지크(zcre) 리셋·혜택 알리미</h1><p class="mut">마지막 확인 {t:%m/%d %H:%M} KST{warn}<br>사이트 배너: {e(" / ".join(st.get("banners", [])) or "없음")}</p>
 <h2>다가오는 일정</h2><ul>{"".join(ev_row(d, v, True) for d, v in up) or "<li>없음</li>"}</ul>
 <h2>새 소식 기록</h2><ul>{feed}</ul>
 <h2>사이트 최신 업데이트</h2><ul><li><a href="{UPDATES}">{e(upd_head)}</a><p>{e(upd_items)}</p></li></ul>
