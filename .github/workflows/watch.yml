@@ -1,0 +1,24 @@
+name: watch
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: watch
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && playwright install --with-deps chromium
+      - run: python watch.py --test && python watch.py
+      - run: |
+          git config user.name "zcre-watch-bot"
+          git config user.email "zcre-watch-bot@users.noreply.github.com"
+          git add state.json index.html
+          git diff --cached --quiet || (git commit -m "갱신 $(TZ=Asia/Seoul date '+%m/%d %H:%M')" && git push)
