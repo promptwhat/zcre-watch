@@ -84,22 +84,37 @@ def scrape():
             b = p.chromium.launch(headless=True)
         pg = b.new_page(locale="ko-KR", user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36")
-        pg.goto(PROFILE, wait_until="networkidle", timeout=60000)
-        for _ in range(3):
-            pg.mouse.wheel(0, 5000)
-            pg.wait_for_timeout(1200)
-        # 로그아웃 상태에선 고정글 + 최신 6개만 보인다 — 15분 주기면 새 글 감지엔 충분
-        posts = pg.eval_on_selector_all('div[data-pressable-container="true"]', """cs => cs.map(c => {
-            const a = c.querySelector('a[href*="/post/"]'), t = c.querySelector('time');
-            return a && {url: 'https://www.threads.com' + a.getAttribute('href').split('?')[0],
-                         dt: t && t.getAttribute('datetime'), text: c.innerText};
-        }).filter(Boolean)""")
-        pg.goto(UPDATES, wait_until="networkidle", timeout=60000)
-        upd = pg.inner_text("body")
-        pg.goto(HOME, wait_until="networkidle", timeout=60000)
-        home = pg.inner_text("body")
+        posts, upd, home, errs = [], "", "", []
+        try:
+            pg.goto(PROFILE, wait_until="domcontentloaded", timeout=60000)
+            pg.wait_for_selector('div[data-pressable-container="true"] a[href*="/post/"]', timeout=30000)
+            for _ in range(3):
+                pg.mouse.wheel(0, 5000)
+                pg.wait_for_timeout(1200)
+            # 로그아웃 상태에선 고정글 + 최신 6개만 보인다 — 15분 주기면 새 글 감지엔 충분
+            posts = pg.eval_on_selector_all('div[data-pressable-container="true"]', """cs => cs.map(c => {
+                const a = c.querySelector('a[href*="/post/"]'), t = c.querySelector('time');
+                return a && {url: 'https://www.threads.com' + a.getAttribute('href').split('?')[0],
+                             dt: t && t.getAttribute('datetime'), text: c.innerText};
+            }).filter(Boolean)""")
+        except Exception as e:
+            errs.append(f"스레드: {e}".splitlines()[0])
+        try:
+            pg.goto(UPDATES, wait_until="domcontentloaded", timeout=60000)
+            pg.wait_for_selector(r"text=/\d{4}년 \d{1,2}월 \d{1,2}일/", timeout=30000)
+            pg.wait_for_timeout(3000)
+            upd = pg.inner_text("body")
+            pg.goto(HOME, wait_until="domcontentloaded", timeout=60000)
+            pg.wait_for_selector("text=AI 콘텐츠 제작", timeout=30000)
+            try:
+                pg.wait_for_load_state("networkidle", timeout=15000)  # 배너는 늦게 뜬다
+            except Exception:
+                pg.wait_for_timeout(5000)
+            home = pg.inner_text("body")
+        except Exception as e:
+            errs.append(f"사이트: {e}".splitlines()[0])
         b.close()
-    return posts, upd, home
+    return posts, upd, home, errs
 
 
 def clean_post(text):
@@ -135,16 +150,19 @@ def run():
         del st["feed"][100:]
 
     try:
-        posts, upd, home = scrape()
-        if not posts:
-            raise RuntimeError("스레드 글 0개 — 로그인 벽 또는 화면 구조 변경")
-        st.pop("fail_day", None)
+        posts, upd, home, errs = scrape()
     except Exception as e:
-        log(f"수집 실패: {e}")
+        posts, upd, home, errs = [], "", "", [f"브라우저: {e}".splitlines()[0]]
+    if posts and not errs:
+        st["ok"] = t.isoformat()
+    if errs:
+        log(f"수집 실패: {errs}")
+        st["errs"] = errs
         if st.get("fail_day") != f"{t:%F}":
             st["fail_day"] = f"{t:%F}"
-            notify("지크 감시 수집 실패", str(e)[:150])
-        posts, upd, home = [], "", ""
+            notify("지크 감시 수집 실패", " / ".join(errs)[:150])
+    else:
+        st.pop("errs", None)
 
     for p in posts:
         text = clean_post(p["text"])
@@ -226,6 +244,7 @@ def render(st, t):
     blk = st.get("update_block", "").splitlines()
     upd_head = blk[0] if blk else "열기"
     upd_items = "\n".join(f"· {blk[i + 1]}" for i, l in enumerate(blk[:-1]) if l in ("신규", "개선", "수정"))
+    warn = f" · ⚠️ 이번 확인 일부 실패(마지막 전체 성공 {st['ok'][5:16].replace('T', ' ')})" if st.get("errs") and st.get("ok") else ""
     DASH.write_text(f"""<!doctype html><html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="300">
 <title>지크 리셋 알리미</title><meta name="description" content="zcre(지크) 크레딧 리셋·혜택 일정 모음 (비공식)"><style>
@@ -239,7 +258,7 @@ li.r{{border-left:4px solid var(--r)}} li.o{{border-left:4px solid var(--o)}} p{
 b.r,b.o{{font-size:12px;padding:2px 7px;border-radius:99px;color:#fff;background:var(--r)}} b.o{{background:var(--o)}}
 .cd{{color:var(--r);font-weight:600}} a{{color:inherit}}
 </style></head><body><main>
-<h1>🐰 지크(zcre) 리셋·혜택 알리미</h1><p class="mut">비공식 팬 페이지 · 공식 <a href="{PROFILE}">스레드</a>와 <a href="https://zcre.co.kr">사이트</a>를 15분마다 확인해 모아요 · 마지막 확인 {t:%m/%d %H:%M} KST<br>사이트 배너: {e(" / ".join(st.get("banners", [])) or "없음")}</p>
+<h1>🐰 지크(zcre) 리셋·혜택 알리미</h1><p class="mut">비공식 팬 페이지 · 공식 <a href="{PROFILE}">스레드</a>와 <a href="https://zcre.co.kr">사이트</a>를 15분마다 확인해 모아요 · 마지막 확인 {t:%m/%d %H:%M} KST{warn}<br>사이트 배너: {e(" / ".join(st.get("banners", [])) or "없음")}</p>
 <h2>다가오는 일정</h2><ul>{"".join(ev_row(d, v, True) for d, v in up) or "<li>없음</li>"}</ul>
 <h2>새 소식 기록</h2><ul>{feed}</ul>
 <h2>사이트 최신 업데이트</h2><ul><li><a href="{UPDATES}">{e(upd_head)}</a><p>{e(upd_items)}</p></li></ul>
