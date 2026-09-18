@@ -204,7 +204,11 @@
   "seedance 2.5 50%",
   "로그인하면 40 크레딧 드려요"
  ],
- "checked": "2026-09-19T02:49:45.918754+09:00",
- "fail_day": "2026-09-17",
- "ok": "2026-09-19T02:49:45.918754+09:00"
+ "checked": "2026-09-19T05:48:27.188985+09:00",
+ "fail_day": "2026-09-19",
+ "ok": "2026-09-19T02:49:45.918754+09:00",
+ "errs": [
+  "스레드: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.threads.com/@zcre.co.kr",
+  "사이트: Page.goto: Navigation to \"https://zcre.co.kr/updates\" is interrupted by another navigation to \"chrome-error://chromewebdata/\""
+ ]
 }
