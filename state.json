@@ -104,6 +104,21 @@
    "dt": "2026-09-19T05:12:55.000Z",
    "text": "그리고 영상 여러 번 뽑으며 방향 잡으셨던 분들께 반가운 소식🔥\nSeedance 2.5에 ‘Draft Mode’가 출시될 예정입니다!\n본격적으로 영상을 생성하기 전에, 더 적은 비용으로 빠르게 프리뷰를 만들어보는 기능이에요.",
    "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DdePCzzCakF": {
+   "dt": "2026-09-19T14:33:48.000Z",
+   "text": "지크에서 진행 중인 이벤트 두 가지, 정리해드려요🫶👇\n먼저, 지크와 함께 만들어 올려주시는 좋은 콘텐츠들 정말 감사합니다🥹🤍\n하나도 빼놓지 않고 팀원들 모두 함께 보며 웃고, 힘을 얻고 있어요.",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DdePDW0CV7o": {
+   "dt": "2026-09-19T14:33:52.000Z",
+   "text": "1. \n@xazinga\n님의 김희연 선생님 이벤트🔥",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DdePEE2iQlC": {
+   "dt": "2026-09-19T14:33:58.000Z",
+   "text": "2. 캐릭터시트 & 하린의 편의점 급습 이벤트🎬\n9/20(일) 23:59까지 아래 두 가지 중 하나로 참여해주세요!\n🐰 나만의 캐릭터시트를 만들고, 이를 활용한 영상 제작",
+   "kind": "o"
   }
  },
  "events": {
@@ -131,10 +146,38 @@
    "reset": false,
    "ctx": "📅 출시 예정: 9/22(화) 오후 7시, 한국 시간 (변경 가능성 있음)",
    "url": "https://www.threads.com/@zcre.co.kr/post/DddO227CU5u"
+  },
+  "2026-09-20 23:00": {
+   "reset": false,
+   "ctx": "📅 마감: 9/20 오후 11시 59분",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DdePDW0CV7o"
+  },
+  "2026-09-20 23:59": {
+   "reset": false,
+   "ctx": "9/20(일) 23:59까지 아래 두 가지 중 하나로 참여해주세요!",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DdePEE2iQlC"
   }
  },
  "alerted": [],
  "feed": [
+  {
+   "at": "2026-09-20T02:25:02.045670+09:00",
+   "kind": "혜택",
+   "title": "2. 캐릭터시트 & 하린의 편의점 급습 이벤트🎬",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DdePEE2iQlC"
+  },
+  {
+   "at": "2026-09-20T02:25:02.045670+09:00",
+   "kind": "혜택",
+   "title": "1. ",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DdePDW0CV7o"
+  },
+  {
+   "at": "2026-09-20T02:25:02.045670+09:00",
+   "kind": "혜택",
+   "title": "지크에서 진행 중인 이벤트 두 가지, 정리해드려요🫶👇",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DdePCzzCakF"
+  },
   {
    "at": "2026-09-19T23:28:24.277400+09:00",
    "kind": "사이트 업데이트",
@@ -243,7 +286,7 @@
   "seedance 2.5 50%",
   "로그인하면 40 크레딧 드려요"
  ],
- "checked": "2026-09-19T23:28:24.277400+09:00",
+ "checked": "2026-09-20T02:25:02.045670+09:00",
  "fail_day": "2026-09-19",
- "ok": "2026-09-19T23:28:24.277400+09:00"
+ "ok": "2026-09-20T02:25:02.045670+09:00"
 }
