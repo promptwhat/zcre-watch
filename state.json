@@ -354,6 +354,16 @@
    "dt": "2026-09-27T12:49:38.000Z",
    "text": "곧 Seedream 5.5 계열 모델이 공개된다는 첩보를 입수했습니다🐰👀\n미드저니의 대항마가 될 수 있을지, 지크팀도 너무너무 기대하고 있어요💗\n이번 캠페인은 스레드 신참 크리에이터 ",
    "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Ddy2VvwiRT4": {
+   "dt": "2026-09-27T14:41:59.000Z",
+   "text": "2D 애니메이션 교수님 이소이의 Topaz 업스케일링의 전공서적🩵\n2D 이미지에서의 변화라서 변화 양상을 더 극적으로 확인해볼 수 있어요!!\n혹시 Astra 2를 포함한 Topaz 업스케일링에 대해 자세히 알고 싶으시면 정독을 추천드려요🤍🤍🤍",
+   "kind": "o"
+  },
+  "https://www.threads.com/@isoi_isoi/post/Ddyx9eKkzNf": {
+   "dt": "2026-09-27T14:03:43.000Z",
+   "text": "isoi_isoi\n며칠전 zcre(\n@zcre.co.kr",
+   "kind": "o"
   }
  },
  "events": {
@@ -403,6 +413,18 @@
   "2026-09-25 18:00|d1"
  ],
  "feed": [
+  {
+   "at": "2026-09-28T06:27:39.761486+09:00",
+   "kind": "혜택",
+   "title": "isoi_isoi",
+   "url": "https://www.threads.com/@isoi_isoi/post/Ddyx9eKkzNf"
+  },
+  {
+   "at": "2026-09-28T06:27:39.761486+09:00",
+   "kind": "혜택",
+   "title": "2D 애니메이션 교수님 이소이의 Topaz 업스케일링의 전공서적🩵",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Ddy2VvwiRT4"
+  },
   {
    "at": "2026-09-27T22:52:20.652490+09:00",
    "kind": "새 글",
@@ -856,11 +878,7 @@
  ],
  "update_block": "2026년 9월 26일\n9월 26일 업데이트\n2026년 9월 27일 업데이트\n신규\nAI 숏드라마 제작 가이드북\n 사유미의 『야장시단』 제작 가이드북을 크레딧으로 구매하고, 웹에서 열람하거나 PDF로 내려받을 수 있어요. 가이드북 보기\n개선\n캔버스 실행 안정성 강화\n 입력 조건에 맞지 않는 작업이 계속 대기하거나, 실패 이유가 제대로 표시되지 않던 문제를 개선했어요.\n개선\n생성 전 입력 확인 강화\n 첨부한 이미지의 크기와 영상·오디오의 길이를 확인해 모델별 입력 조건과 예상 비용에 반영해요.\n개선\n캔버스 프롬프트·참조 사용성\n 프롬프트에서 이미지·영상·오디오를 태그로 지정하는 동작을 다듬었어요.\n수정\n이미지 편집 입력 오류\n GPT Image 2.5 편집에서 정상적인 PNG·JPEG·WebP 이미지가 파일 형식 정보 때문에 거절되던 일부 문제를 수정했어요.",
  "banners": [],
- "checked": "2026-09-28T03:15:18.712768+09:00",
+ "checked": "2026-09-28T06:27:39.761486+09:00",
  "fail_day": "2026-09-28",
- "ok": "2026-09-27T22:52:20.652490+09:00",
- "errs": [
-  "스레드: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.threads.com/@zcre.co.kr",
-  "사이트: Page.goto: Navigation to \"https://zcre.co.kr/updates\" is interrupted by another navigation to \"chrome-error://chromewebdata/\""
- ]
+ "ok": "2026-09-28T06:27:39.761486+09:00"
 }
