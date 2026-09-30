@@ -449,6 +449,36 @@
    "dt": "2026-09-30T08:55:55.000Z",
    "text": "그리고 어느 플랫폼을 쓰시든, 우리나라 크리에이터분들이 세계에서 손꼽히는 좋은 환경에서 작업하실 수 있어야 하잖아요🐰🤍\n이를 위해 지크도 현재 여러 플랫폼과 소통 창구를 만들어가고 있어요.\n국내 플랫폼들과도 모델 상태와 장애 정보를 함께 공유하고, 문제가 생겼을 때 더 빠르게 대응할 수 있으면 좋겠습니다.",
    "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6m-dYiUJO": {
+   "dt": "2026-09-30T15:01:39.000Z",
+   "text": "🚨 크레딧팩 50% 추가증정 캠페인 종료되었습니다 🚨\n좋은 이벤트들 준비하고 있으니 기다려주세요🫶",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6eY-WicGR": {
+   "dt": "2026-09-30T13:46:38.000Z",
+   "text": "크레딧팩 리셋 기준, 다시 한번 안내드려요🐰📌\n구매 전, 4번의 모집 마감 조건까지 꼭 확인해주세요!\n1. 크레딧팩은 최대 24,000크레딧까지",
+   "kind": "r"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6jNrdCQ7h": {
+   "dt": "2026-09-30T14:28:47.000Z",
+   "text": "크레딧 리셋 이벤트 공지❤️‍🔥\n26.10.03 17:30 KST  ",
+   "kind": "r"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6Yt3LAiBj": {
+   "dt": "2026-09-30T13:01:03.000Z",
+   "text": "26.10.03 17:30 KST  ",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6ZLs3CU64": {
+   "dt": "2026-09-30T13:01:08.000Z",
+   "text": "지크크들, 수요일인데 힘들지?\n주말에 만들어보고 싶었던 작품들, 이번 크레딧 리셋으로 함께 달려봐요🫶\n리셋이 처음인 지크크들을 위해 설명드릴게요💗",
+   "kind": "r"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dd6ZMOoCZRc": {
+   "dt": "2026-09-30T13:01:12.000Z",
+   "text": "5. EXPERT 플랜 계산 예시\n크레딧팩이 없는 EXPERT의 기본 리셋 기준은 8,000크레딧입니다.\n총잔액 3,000 → 5,000 지급 → 총 8,000",
+   "kind": "r"
   }
  },
  "events": {
@@ -496,6 +526,21 @@
    "reset": false,
    "ctx": "[26.09.30 00:02 KST 기준]",
    "url": "https://www.threads.com/@zcre.co.kr/post/Dd4C8f1ifO3"
+  },
+  "2026-10-03 17:30": {
+   "reset": true,
+   "ctx": "26.10.03 17:30 KST",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6jNrdCQ7h"
+  },
+  "2026-10-03 17:00": {
+   "reset": true,
+   "ctx": "10월 3일 오후 5시 30분(KST) 이전에 시작한 생성 요청까지 대상입니다. 이후 시작한 요청으로 사용한 크레딧은 이번 리셋에 포함되지 않습니다.",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6ZLs3CU64"
+  },
+  "2026-10-03 18:00": {
+   "reset": true,
+   "ctx": "10월 3일 오후 6시(KST)에 리셋이 진행됩니다.",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6ZLs3CU64"
   }
  },
  "alerted": [
@@ -503,6 +548,42 @@
   "2026-09-25 18:00|d1"
  ],
  "feed": [
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "리셋",
+   "title": "5. EXPERT 플랜 계산 예시",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6ZMOoCZRc"
+  },
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "리셋",
+   "title": "지크크들, 수요일인데 힘들지?",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6ZLs3CU64"
+  },
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "새 글",
+   "title": "26.10.03 17:30 KST  ",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6Yt3LAiBj"
+  },
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "리셋",
+   "title": "크레딧 리셋 이벤트 공지❤️‍🔥",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6jNrdCQ7h"
+  },
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "리셋",
+   "title": "크레딧팩 리셋 기준, 다시 한번 안내드려요🐰📌",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6eY-WicGR"
+  },
+  {
+   "at": "2026-10-01T03:09:54.171361+09:00",
+   "kind": "혜택",
+   "title": "🚨 크레딧팩 50% 추가증정 캠페인 종료되었습니다 🚨",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dd6m-dYiUJO"
+  },
   {
    "at": "2026-09-30T21:41:21.319138+09:00",
    "kind": "혜택",
@@ -1066,23 +1147,11 @@
    "kind": "혜택",
    "title": "지크 3호가 예비군을 가서… 지크팀이 잠깐 조금 느려졌지만🙈",
    "url": "https://www.threads.com/@zcre.co.kr/post/DdY7kzxiSQX"
-  },
-  {
-   "at": "2026-09-18T00:03:52.652641+09:00",
-   "kind": "새 글",
-   "title": "일레븐랩스처럼 지크에서 써보고 싶은 오디오 모델이나 서비스가 있다면, 그것도 꼭 알려주세요🥹",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DdZIYjBCcnm"
-  },
-  {
-   "at": "2026-09-18T00:03:52.652641+09:00",
-   "kind": "새 글",
-   "title": "지크에 오디오 스튜디오가 열렸어요🐰🎧",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DdZITZDAmGe"
   }
  ],
  "update_block": "2026년 9월 30일\n9월 29일 업데이트\n신규\nIP 정밀 검사\n Seedance 2.5 생성이 제한된 경우, 기본 검사에 이어 정밀 검사로 제한 원인에 대한 추가 설명을 확인할 수 있어요.\n개선\n검사 결과·검토 요청\n 검사 결과를 읽기 쉬운 설명으로 정리하고, 정밀 검사가 어렵거나 추가 확인이 필요하면 지크팀에 검토를 요청할 수 있도록 했어요.\n개선\n파일 첨부\n 파일 선택과 드래그 앤 드롭의 동작을 통일하고, 첨부 한도를 넘으면 제외된 파일과 제한을 더 명확하게 안내해요.\n개선\n화면·안내 문구\n 설정·고객지원·캔버스의 모바일 배치와 줄바꿈을 다듬고, 생성 버튼의 크레딧 표시와 예상 시간 안내를 정리했어요.\n수정\n업로드 대기\n 첨부 한도 때문에 대기 중인 업로드가 멈추면서 생성 버튼도 계속 잠기던 문제를 수정했어요.\n수정\n검사 중복 요청\n 검사·정밀 검사·검토 요청 버튼을 빠르게 여러 번 눌렀을 때 요청이 중복으로 전송되던 문제를 수정했어요.\n수정\n검사 화면 스크롤\n 검사 결과나 검토 요청 내용이 길어졌을 때 화면이 잘리고 아래로 스크롤되지 않던 문제를 수정했어요.",
  "banners": [],
- "checked": "2026-09-30T21:41:21.319138+09:00",
+ "checked": "2026-10-01T03:09:54.171361+09:00",
  "fail_day": "2026-09-29",
- "ok": "2026-09-30T21:41:21.319138+09:00"
+ "ok": "2026-10-01T03:09:54.171361+09:00"
 }
