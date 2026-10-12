@@ -789,6 +789,36 @@
    "dt": "2026-10-12T04:40:24.000Z",
    "text": "아ㅆ 뭐야",
    "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeZfIVKibDv": {
+   "dt": "2026-10-12T14:49:33.000Z",
+   "text": "지크크들, 하루 사이에 순위가 꽤 바뀌었습니다🐰🥋\n10월 12일 오후 8시경, 주짓수 밈 이벤트 중간 현황 전해드려요!\n🏆 EXPERT · 1~10위",
+   "kind": "r"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeZfI1widsJ": {
+   "dt": "2026-10-12T14:49:37.000Z",
+   "text": "어제 밤보다 순위가 많이 오른 분들도 살펴봤습니다🔥\n@minsu_5155\n34위 → 13위, 21계단 상승!",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeZfJYCiVfq": {
+   "dt": "2026-10-12T14:49:42.000Z",
+   "text": "현재 65개 작품, 56개 계정을 집계했습니다🐰📌\n참여 마감은 10월 15일!\n최종 조회수 집계와 당첨 발표·지급은 10월 16일 오후 예정입니다.",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeY05GrCbT9": {
+   "dt": "2026-10-12T08:40:28.000Z",
+   "text": "숨어 있던 미드저니파 지크크들은 고개를 들어주세요…🐰🙋🏻‍♀️\n드디어 지크에도 입고됐습니다. 최신 V8.2로!!!!📦🔥\n그 특유의 색감과 질감 때문에 미드저니 기다리셨던 분들, 이제 지크에서도 만나보실 수 있어요. 평소 쓰던 프롬프트도 미드저니에 한번 넣어보세요🐰🌷",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeY05sNCcQU": {
+   "dt": "2026-10-12T08:40:33.000Z",
+   "text": "미드저니에 이미지를 넣을 때는, 무엇을 참고하게 할지 골라주세요🐰🎨\n① 이미지 프롬프트\n구도와 색, 내용을 참고해 새로운 이미지를 그립니다. 최대 20장까지 넣을 수 있고, 이미지 가중치는 0~3으로 조절할 수 있어요.",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeY06NHiR0K": {
+   "dt": "2026-10-12T08:40:37.000Z",
+   "text": "Kling v4 기다리시는 지크크들께도 소식 전해드려요🐰📦\n현재 중국 플랫폼에서는 공개됐지만, 한국판 배포가 늦어지고 있습니다. 지크에서 이용하실 수 있는 시점이 확정되면 다시 안내드리겠습니다.\n그리고 미드저니파 지크크들께 슬쩍 요청 하나…",
+   "kind": "o"
   }
  },
  "events": {
@@ -861,6 +891,16 @@
    "reset": false,
    "ctx": "💗 좋아요 집계 마감: 10월 9일 12:00",
    "url": "https://www.threads.com/@zcre.co.kr/post/DeMoSssCWpt"
+  },
+  "2026-10-12 20:00": {
+   "reset": true,
+   "ctx": "10월 12일 오후 8시경, 주짓수 밈 이벤트 중간 현황 전해드려요!",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeZfIVKibDv"
+  },
+  "2026-10-12 19:41": {
+   "reset": false,
+   "ctx": "※ 실제 조회 시각: 10/12 19:41~19:53 KST",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeZfJYCiVfq"
   }
  },
  "alerted": [
@@ -871,6 +911,42 @@
   "2026-10-03 18:00|d1"
  ],
  "feed": [
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "혜택",
+   "title": "Kling v4 기다리시는 지크크들께도 소식 전해드려요🐰📦",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeY06NHiR0K"
+  },
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "새 글",
+   "title": "미드저니에 이미지를 넣을 때는, 무엇을 참고하게 할지 골라주세요🐰🎨",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeY05sNCcQU"
+  },
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "혜택",
+   "title": "숨어 있던 미드저니파 지크크들은 고개를 들어주세요…🐰🙋🏻‍♀️",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeY05GrCbT9"
+  },
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "혜택",
+   "title": "현재 65개 작품, 56개 계정을 집계했습니다🐰📌",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeZfJYCiVfq"
+  },
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "새 글",
+   "title": "어제 밤보다 순위가 많이 오른 분들도 살펴봤습니다🔥",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeZfI1widsJ"
+  },
+  {
+   "at": "2026-10-13T00:58:44.003216+09:00",
+   "kind": "리셋",
+   "title": "지크크들, 하루 사이에 순위가 꽤 바뀌었습니다🐰🥋",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeZfIVKibDv"
+  },
   {
    "at": "2026-10-12T15:24:38.064569+09:00",
    "kind": "새 글",
@@ -1434,47 +1510,11 @@
    "kind": "혜택",
    "title": "‘야장시단’ 캐스팅 이벤트를 시작합니다🐰🎬",
    "url": "https://www.threads.com/@zcre.co.kr/post/Dd1EsmgAkWa"
-  },
-  {
-   "at": "2026-09-28T06:27:39.761486+09:00",
-   "kind": "혜택",
-   "title": "isoi_isoi",
-   "url": "https://www.threads.com/@isoi_isoi/post/Ddyx9eKkzNf"
-  },
-  {
-   "at": "2026-09-28T06:27:39.761486+09:00",
-   "kind": "혜택",
-   "title": "2D 애니메이션 교수님 이소이의 Topaz 업스케일링의 전공서적🩵",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Ddy2VvwiRT4"
-  },
-  {
-   "at": "2026-09-27T22:52:20.652490+09:00",
-   "kind": "새 글",
-   "title": "곧 Seedream 5.5 계열 모델이 공개된다는 첩보를 입수했습니다🐰👀",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Ddype7Nif2u"
-  },
-  {
-   "at": "2026-09-27T22:52:20.652490+09:00",
-   "kind": "새 글",
-   "title": "지크 크리에이터들을 위한 새로운 플래그십 모델을 곧 선보입니다💗",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Ddyn94jAg7t"
-  },
-  {
-   "at": "2026-09-27T02:56:41.036207+09:00",
-   "kind": "사이트 업데이트",
-   "title": "2026년 9월 26일",
-   "url": "https://zcre.co.kr/updates"
-  },
-  {
-   "at": "2026-09-26T18:55:44.539535+09:00",
-   "kind": "혜택",
-   "title": "MCP에서 에셋을 불러오기 전에 확인해주세요🐰🛠️",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DdvfhjCibhr"
   }
  ],
  "update_block": "2026년 10월 10일\n10월 10일 업데이트\n개선\nJiu-Jitsu 편집 화면\n 생성 설명으로 편집하거나 대상별로 상세 설정하는 방식을 선택할 수 있어요. 편집과 프리셋 탐색도 더 쉽게 오갈 수 있어요.\n개선\n커뮤니티 프리셋 원문 활용\n 원문 공개에 동의한 커뮤니티 프리셋은 프롬프트를 그대로 불러오거나 수정해 새로운 결과를 만들 수 있어요.\n개선\n생성 결과로 프리셋 등록\n Jiu-Jitsu 결과를 프리셋으로 등록할 때 원본 영상, 참고 이미지, 지시문과 오디오 설정을 자동으로 불러와요.\n수정\n생성 기록에서 프리셋 등록\n 기록에서 고른 결과가 등록 화면에 제대로 반영되지 않거나, 등록 화면이 열리지 않던 문제를 수정했어요.\n수정\nJiu-Jitsu 무료 생성\n 모델 1회 무료 이용 쿼터를 제공하고, 생성 버튼에 ‘1회 무료 생성’을 표시해요.\n개선\n프리셋 등록·커뮤니티 공유 안내\n Jiu-Jitsu 프리셋 등록과 일반 커뮤니티 공유를 구분해, 원하는 작업으로 이동하기 쉽게 안내를 정리했어요.",
  "banners": [],
- "checked": "2026-10-12T15:24:38.064569+09:00",
+ "checked": "2026-10-13T00:58:44.003216+09:00",
  "fail_day": "2026-09-29",
- "ok": "2026-10-12T15:24:38.064569+09:00"
+ "ok": "2026-10-13T00:58:44.003216+09:00"
 }
