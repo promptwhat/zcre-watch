@@ -1004,6 +1004,31 @@
    "dt": "2026-10-17T16:33:08.000Z",
    "text": "zcre next 지원자분들의 1차 검토를 모두 마쳤습니다🐰🔥\n현재 지원을 검토하시는 분들은 가능하면 10월 18일까지 자료 10개를 모두 등록해주시는 게 가장 좋아요!\n등록된 자료가 충분할수록 여러분이 잘하는 장르와 작품의 방향을 더 정확하게 파악하고, 잘 맞는 브랜드 광고와 협업 기회를 구체적으로 제안드릴 수 있습니다.",
    "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeoEYOWkqSL": {
+   "dt": "2026-10-18T06:44:24.000Z",
+   "text": "지크에서 일요일에도 즐길… 아니, 크레딧을 사냥할 수 있는 이벤트 2개 안내드려요!!🐰🔥\n지크크들이 사비로 이벤트까지 열어주시니 지크팀은 감사해서 어쩔 줄 모르고 있습니다🥹\n많이 많이 참여해주셔야 두분께서 지크와 함께 더더더더더 큰 이벤트를 열어주실 거예요!! 지크크들의 화력, 제대로 보여주세요🐰🔥🔥🔥",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeoEYpSks89": {
+   "dt": "2026-10-18T06:44:27.000Z",
+   "text": "@xazinga\n 사징가님의 〈내 IP 자랑하기〉\nxazinga",
+   "kind": "o"
+  },
+  "https://www.threads.com/@xazinga/post/Dej6Vk4D6XN": {
+   "dt": "2026-10-16T16:00:35.000Z",
+   "text": "xazinga\n📢 내 IP 자랑하기 이벤트\n여러분이 만든 캐릭터나 세계관, 영상으로 보여주세요.",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DeoEZJGEnEr": {
+   "dt": "2026-10-18T06:44:31.000Z",
+   "text": "@dra9oncinema\n 드래곤시네마님의 〈나만의 민서아 대위 만들기〉\ndra9oncinema",
+   "kind": "o"
+  },
+  "https://www.threads.com/@dra9oncinema/post/Dekm-5JkwRt": {
+   "dt": "2026-10-16T22:29:49.000Z",
+   "text": "dra9oncinema\n🎬 토요일 이른 아침 기습 이벤트! 🎁\n〈나만의 민서아 대위 만들기〉",
+   "kind": "o"
   }
  },
  "events": {
@@ -1086,6 +1111,16 @@
    "reset": false,
    "ctx": "※ 실제 조회 시각: 10/12 19:41~19:53 KST",
    "url": "https://www.threads.com/@zcre.co.kr/post/DeZfJYCiVfq"
+  },
+  "2026-10-19 16:00": {
+   "reset": false,
+   "ctx": "⏰ 10/19 16시 마감·19시 발표",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeoEYOWkqSL"
+  },
+  "2026-10-19 19:00": {
+   "reset": false,
+   "ctx": "🏆 발표: 10/19(월) 19시",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeoEZJGEnEr"
   }
  },
  "alerted": [
@@ -1096,6 +1131,36 @@
   "2026-10-03 18:00|d1"
  ],
  "feed": [
+  {
+   "at": "2026-10-18T18:55:48.131524+09:00",
+   "kind": "혜택",
+   "title": "dra9oncinema",
+   "url": "https://www.threads.com/@dra9oncinema/post/Dekm-5JkwRt"
+  },
+  {
+   "at": "2026-10-18T18:55:48.131524+09:00",
+   "kind": "혜택",
+   "title": "@dra9oncinema",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeoEZJGEnEr"
+  },
+  {
+   "at": "2026-10-18T18:55:48.131524+09:00",
+   "kind": "혜택",
+   "title": "xazinga",
+   "url": "https://www.threads.com/@xazinga/post/Dej6Vk4D6XN"
+  },
+  {
+   "at": "2026-10-18T18:55:48.131524+09:00",
+   "kind": "혜택",
+   "title": "@xazinga",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeoEYpSks89"
+  },
+  {
+   "at": "2026-10-18T18:55:48.131524+09:00",
+   "kind": "혜택",
+   "title": "지크에서 일요일에도 즐길… 아니, 크레딧을 사냥할 수 있는 이벤트 2개 안내드려요!!🐰🔥",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DeoEYOWkqSL"
+  },
   {
    "at": "2026-10-18T03:22:41.982756+09:00",
    "kind": "새 글",
@@ -1665,41 +1730,11 @@
    "kind": "새 글",
    "title": "[02:05 KST] 서버 안정화 완료되어 오류가 감소하였습니다.",
    "url": "https://www.threads.com/@zcre.co.kr/post/DeCjmE4Evux"
-  },
-  {
-   "at": "2026-10-04T03:44:36.592492+09:00",
-   "kind": "혜택",
-   "title": "🚨 Seedance 2.5 / 2.0 긴급 안내드립니다.",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DeCZfQFiZXd"
-  },
-  {
-   "at": "2026-10-04T00:15:20.444101+09:00",
-   "kind": "새 글",
-   "title": "3. 도용 신고 기능과 지크의 직접 대응",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DeCEDgDif5P"
-  },
-  {
-   "at": "2026-10-04T00:15:20.444101+09:00",
-   "kind": "새 글",
-   "title": "1. 영상의 출처를 확인할 수 있는 비가시성 워터마크",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DeCEC5diWwM"
-  },
-  {
-   "at": "2026-10-04T00:15:20.444101+09:00",
-   "kind": "새 글",
-   "title": "안녕하세요, 지크입니다🐰",
-   "url": "https://www.threads.com/@zcre.co.kr/post/DeCECQLiZX3"
-  },
-  {
-   "at": "2026-10-04T00:15:20.444101+09:00",
-   "kind": "새 글",
-   "title": "souhafilm",
-   "url": "https://www.threads.com/@souhafilm/post/DeCMyCak3f7"
   }
  ],
  "update_block": "2026년 10월 15일\n10월 15일 업데이트\n신규\n캔버스 Seedance 2.5 드래프트\n 캔버스에서도 Seedance 2.5 영상을 480p 드래프트로 먼저 확인하고, 마음에 들면 본생성으로 이어서 만들 수 있어요.\n신규\n주짓수 프리셋 둘러보기\n 로그인하지 않아도 주짓수 프리셋을 둘러보고 공유 링크로 보낼 수 있어요. 로그인하거나 결제한 뒤에는 보던 화면으로 돌아와요.\n개선\n주짓수 화면 정리\n 프리셋을 인기·최신 탭으로 나눠 보여주고, 미리보기 카드를 더 크게 키웠어요.\n개선\n영상 업스케일 대용량 결과\n Topaz 영상 업스케일 결과를 최대 2GB까지 저장해요. 저장할 수 없을 만큼 큰 결과가 예상되면 생성 전에 미리 알려드려요.\n수정\n주짓수 결과 다운로드\n 주짓수 결과 영상을 내려받을 때 로그인 상태를 확인하지 못해 실패하던 문제를 수정했어요.\n수정\n로그인 후 작업 복귀\n 로그인하지 않은 상태에서 만들던 작업이 로그인한 뒤 개인 워크스페이스로 돌아오도록 수정했어요.\n수정\nGrok 영상 거절 안내\n Grok 영상이 콘텐츠 정책으로 거절되면 오래 기다리지 않고 바로 알려드려요.\n수정\nGemini 정책 안내\n Gemini 이미지 생성이 정책 때문에 막혔을 때 원인을 콘텐츠 정책 안내로 보여드려요.\n수정\nSeed Audio 참고 오디오\n 참고 오디오가 조건에 맞지 않으면 생성을 시작하기 전에 바로 알려드려요.\n수정\n미드저니 오류 안내\n 미드저니에서 일시적인 실행 오류가 나거나 참고 이미지를 불러오지 못하면 원인에 맞게 안내해요.\n수정\n영상 입력 확인 지연\n 영상 입력 확인 요청이 몰릴 때 실패로 끝내지 않고 잠시 후 다시 시도하도록 안내해요.\n개선\n생성 처리 안정성\n 서버를 업데이트할 때 진행 중인 생성이 끝날 때까지 기다렸다가 교체해, 업데이트 중 생성이 끊기는 일을 줄였어요.",
  "banners": [],
- "checked": "2026-10-18T14:41:44.533064+09:00",
+ "checked": "2026-10-18T18:55:48.131524+09:00",
  "fail_day": "2026-09-29",
- "ok": "2026-10-18T14:41:44.533064+09:00"
+ "ok": "2026-10-18T18:55:48.131524+09:00"
 }
