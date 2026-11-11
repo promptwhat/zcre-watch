@@ -1634,6 +1634,26 @@
    "dt": "2026-11-10T14:00:13.000Z",
    "text": "텍스트 인식 정보를 활용해 문구를 수정하는 편집 기능도 추가가될 예정이에요. 다만 공식 공개까지는 시간이 조금 더 걸릴 수 있어, 준비되는 대로 따로 소식 전해드릴게요🐰🛠️\n(예정) 포스터에 적힌 글자도 내용부터 폰트까지 읽습니다🔍\n예를 들어 빨간색으로 ‘30% 할인’이 적혀 있다면, 문구뿐 아니라 어디에 놓였는지, 어떤 색과 굵기인지, 어떤 폰트와 비슷한지도 알려줘요.",
    "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dfl4x4Qki7O": {
+   "dt": "2026-11-11T06:55:57.000Z",
+   "text": "우리가 아직 엠바고라 재갈이 물려져있지만\n지크크들 씨댄스 가벼운거 온다\n더 무거운 것도 온다",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/Dfl6GmOEkvR": {
+   "dt": "2026-11-11T07:07:32.000Z",
+   "text": "(지크크들 그거 아닌거 같아 아마..)",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DflUvXiEpy6": {
+   "dt": "2026-11-11T01:41:03.000Z",
+   "text": "마케팅 지크도 이해한 Fable 5.2 프리비즈 원리\nCluade에 지크 MCP를 연결하면 프리비즈부터 영상으로 만드는 것까지 한번에 작업할 수 있어요!!\n@lee01_ai",
+   "kind": "n"
+  },
+  "https://www.threads.com/@lee01_ai/post/DflPFi7D6ig": {
+   "dt": "2026-11-11T00:52:12.000Z",
+   "text": "lee01_ai\nCLAUDE FABLE 5.2 IS LIVE ON ZCRE 🐰\n네 번째 아무도 시키지 않은 ",
+   "kind": "n"
   }
  },
  "events": {
@@ -1752,6 +1772,30 @@
   "2026-10-30 23:59|d1"
  ],
  "feed": [
+  {
+   "at": "2026-11-11T17:20:48.190231+09:00",
+   "kind": "새 글",
+   "title": "lee01_ai",
+   "url": "https://www.threads.com/@lee01_ai/post/DflPFi7D6ig"
+  },
+  {
+   "at": "2026-11-11T17:20:48.190231+09:00",
+   "kind": "새 글",
+   "title": "마케팅 지크도 이해한 Fable 5.2 프리비즈 원리",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DflUvXiEpy6"
+  },
+  {
+   "at": "2026-11-11T17:20:48.190231+09:00",
+   "kind": "새 글",
+   "title": "(지크크들 그거 아닌거 같아 아마..)",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dfl6GmOEkvR"
+  },
+  {
+   "at": "2026-11-11T17:20:48.190231+09:00",
+   "kind": "새 글",
+   "title": "우리가 아직 엠바고라 재갈이 물려져있지만",
+   "url": "https://www.threads.com/@zcre.co.kr/post/Dfl4x4Qki7O"
+  },
   {
    "at": "2026-11-11T00:49:26.240696+09:00",
    "kind": "사이트 업데이트",
@@ -2327,35 +2371,11 @@
    "kind": "새 글",
    "title": "소리 하나 없던 게임 플레이 영상에, AI가 소리를 새로 입혔다고 해요🐰🎮",
    "url": "https://www.threads.com/@zcre.co.kr/post/De9dHl-ktgF"
-  },
-  {
-   "at": "2026-10-26T02:41:37.517580+09:00",
-   "kind": "새 글",
-   "title": "pyona_ai",
-   "url": "https://www.threads.com/@pyona_ai/post/Dd6sSsWEg1L"
-  },
-  {
-   "at": "2026-10-26T02:41:37.517580+09:00",
-   "kind": "새 글",
-   "title": "pyona_ai",
-   "url": "https://www.threads.com/@zcre.co.kr/post/De67Lh4ElY8"
-  },
-  {
-   "at": "2026-10-26T02:41:37.517580+09:00",
-   "kind": "혜택",
-   "title": "naeng_donggo",
-   "url": "https://www.threads.com/@naeng_donggo/post/De6zK5UAVN-"
-  },
-  {
-   "at": "2026-10-26T02:41:37.517580+09:00",
-   "kind": "혜택",
-   "title": "혹시 ",
-   "url": "https://www.threads.com/@zcre.co.kr/post/De67K-2krsk"
   }
  ],
  "update_block": "2026년 11월 10일\n11월 10일 업데이트\n신규\nSeedream 5.5 정식 출시\n ZCRE Image 1.0으로 먼저 제공했던 모델을 Seedream 5.5로 정식 출시했어요. ZCRE NEXT 크리에이터 제한을 해제해 개인·기업 스페이스에서 이용할 수 있고, 이미지 스튜디오뿐 아니라 캔버스와 MCP에서도 사용할 수 있어요.\n신규\nSeedream 5.5 레이어 분리\n 이미지 스튜디오에서 참고 이미지 1장을 넣고 ‘레이어’ 옵션을 켜면 이미지를 레이어로 분리할 수 있어요. 최대 결과 수를 2~100장 범위에서 지정할 수 있으며, 원본 크기를 기준으로 처리해요.\n신규\n레이어 글자 인식\n Seedream 5.5 레이어 분리에서 ‘글자 인식’을 선택할 수 있어요. 인식된 글자와 색상 코드, 비슷한 서체, 굵게·기울임 등의 스타일을 결과에서 확인할 수 있고, 레이어 ZIP에도 인식 정보를 함께 담아줘요.\n개선\n새 이미지 작업 기본 모델\n 새 이미지 작업을 시작하면 Seedream 5.5를 기본으로 선택해요. 저장한 작업을 다시 열거나 특정 모델로 진입하면 해당 작업의 모델을 유지해요.",
  "banners": [],
- "checked": "2026-11-11T10:30:09.726754+09:00",
+ "checked": "2026-11-11T17:20:48.190231+09:00",
  "fail_day": "2026-09-29",
- "ok": "2026-11-11T10:30:09.726754+09:00"
+ "ok": "2026-11-11T17:20:48.190231+09:00"
 }
