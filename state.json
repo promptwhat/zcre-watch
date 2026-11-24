@@ -2129,6 +2129,36 @@
    "dt": "2026-11-24T05:11:47.000Z",
    "text": "같이 해치워주세요 지크크들.. 너무 무서와 11/24기준 정식오픈(GA) 되었고 지크 상단 탭에서 확인해볼 수 있습니다🫶🫶\n정식 오픈 전 74개의 잔 오류를 수정했고, 기여자분들을 위해 시상식도 마련하고 있답니다!!!!!!! 피드백 정말 사랑해요💞💞💞",
    "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgIEAwKgjEe": {
+   "dt": "2026-11-24T13:28:48.000Z",
+   "text": "지크 같은 플랫폼을 직접 만들거나, API 형태로 AI를 활용하고 싶으셨다면?\n국내 최대 규모로 해외 AI API를 유통하는 플랫폼, 렛서의 AI 게이트웨이를 소개합니다.\n국내 최대 할인폭, 최신 모델의 가장 빠른 국내 연동.",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgIEW33kusg": {
+   "dt": "2026-11-24T13:31:18.000Z",
+   "text": "@neotype_yawol\n 네오타입님의 <먼저 반하면 1억엔> 컨텐츠 협업으로 만들어진 영상입니다 ai-gateway.kr/media\nai-gateway.kr",
+   "kind": "n"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgICFqmklGw": {
+   "dt": "2026-11-24T13:11:29.000Z",
+   "text": "아 참고로 지크 모든 할인은 공급가에서 추가 할인입니다 잼컨 가득가득 오네가이시마스  ▓",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgICFprEjVe": {
+   "dt": "2026-11-24T13:11:29.000Z",
+   "text": "11/26 00:00 부터 WAN 3.0 65% 할인 진행 확정",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgH-FNMku5c": {
+   "dt": "2026-11-24T12:36:28.000Z",
+   "text": "11/26 00:00 부터 WAN 3.0 65% 할인 진행 확정",
+   "kind": "o"
+  },
+  "https://www.threads.com/@zcre.co.kr/post/DgH-F3Ckr0_": {
+   "dt": "2026-11-24T12:36:33.000Z",
+   "text": "알리바바산 Seedance 2.5 Draft의 보급형 고화질 생성 기능, 두번째 개선 완료되었어요.\n알리바바 WAN 3.0을 활용하여 1080p로 업스케일링 하는 기능입니다!\n지크팀의 센세 ",
+   "kind": "o"
   }
  },
  "events": {
@@ -2246,6 +2276,11 @@
    "reset": false,
    "ctx": "11월 20일 오후 6시 드디어 업로드.",
    "url": "https://www.threads.com/@zcre.co.kr/post/Df9SIItEuGc"
+  },
+  "2026-11-26 00:00": {
+   "reset": false,
+   "ctx": "11/26 00:00 부터 WAN 3.0 65% 할인 진행 확정",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgICFprEjVe"
   }
  },
  "alerted": [
@@ -2257,6 +2292,42 @@
   "2026-10-30 23:59|d1"
  ],
  "feed": [
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "혜택",
+   "title": "알리바바산 Seedance 2.5 Draft의 보급형 고화질 생성 기능, 두번째 개선 완료되었어요.",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgH-F3Ckr0_"
+  },
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "혜택",
+   "title": "11/26 00:00 부터 WAN 3.0 65% 할인 진행 확정",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgH-FNMku5c"
+  },
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "혜택",
+   "title": "11/26 00:00 부터 WAN 3.0 65% 할인 진행 확정",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgICFprEjVe"
+  },
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "혜택",
+   "title": "아 참고로 지크 모든 할인은 공급가에서 추가 할인입니다 잼컨 가득가득 오네가이시마스  ▓",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgICFqmklGw"
+  },
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "새 글",
+   "title": "@neotype_yawol",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgIEW33kusg"
+  },
+  {
+   "at": "2026-11-25T06:33:12.844311+09:00",
+   "kind": "혜택",
+   "title": "지크 같은 플랫폼을 직접 만들거나, API 형태로 AI를 활용하고 싶으셨다면?",
+   "url": "https://www.threads.com/@zcre.co.kr/post/DgIEAwKgjEe"
+  },
   {
    "at": "2026-11-24T20:33:01.591854+09:00",
    "kind": "새 글",
@@ -2820,47 +2891,11 @@
    "kind": "새 글",
    "title": "15일 오후 3시 Seedance 2.5 flash 공개되옵니다🥹 미안해요 지크크 자본주의에 밀렸어요우리가 더 빨리 클게요 ▓ ▓",
    "url": "https://www.threads.com/@zcre.co.kr/post/Dfoq_DVkouA"
-  },
-  {
-   "at": "2026-11-12T21:30:03.405289+09:00",
-   "kind": "새 글",
-   "title": "바이트플러스 귀하",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Dfoq2yJEv38"
-  },
-  {
-   "at": "2026-11-12T12:50:46.061163+09:00",
-   "kind": "새 글",
-   "title": "king_of_film",
-   "url": "https://www.threads.com/@king_of_film/post/DfnsdEBn-qD"
-  },
-  {
-   "at": "2026-11-12T12:50:46.061163+09:00",
-   "kind": "새 글",
-   "title": "Say hello to our partner  ",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Dfn138MktUv"
-  },
-  {
-   "at": "2026-11-12T08:06:35.520715+09:00",
-   "kind": "사이트 업데이트",
-   "title": "2026년 11월 11일",
-   "url": "https://zcre.co.kr/updates"
-  },
-  {
-   "at": "2026-11-12T08:06:35.520715+09:00",
-   "kind": "새 글",
-   "title": "chase90re",
-   "url": "https://www.threads.com/@chase90re/post/DfmajlBmgoC"
-  },
-  {
-   "at": "2026-11-12T08:06:35.520715+09:00",
-   "kind": "새 글",
-   "title": "정말 돌아버린 Seedream 5.5의 레이어분리 ",
-   "url": "https://www.threads.com/@zcre.co.kr/post/Dfmau9SksOI"
   }
  ],
  "update_block": "2026년 11월 22일\n11월 22일 업데이트\n신규\n팀 월 크레딧 배분\n 팀 소유자와 관리자가 구성원별 월 고정 크레딧과 공유 크레딧 설정을 관리할 수 있어요. 월 배분 방식으로 전환할 때 변경 내용을 미리 확인할 수 있어요.\n신규\n팀 크레딧 추가 요청\n 팀 구성원이 필요한 크레딧을 추가로 요청할 수 있어요. 소유자와 관리자는 요청 금액의 전부 또는 일부를 승인하거나 거절할 수 있어요.\n개선\n팀 크레딧 지급·회수\n 매월 고정 배분하는 금액과 별도로 이번 이용 기간에만 크레딧을 추가 지급하거나, 배분한 크레딧의 전부 또는 일부를 회수할 수 있어요. 추가 지급 시에는 총액을 계산할 필요 없이 더할 금액을 입력하면 돼요.\n개선\n내 팀 크레딧 현황\n 구성원이 이번 이용 기간의 개인 크레딧 사용량과 잔여량, 공유 크레딧 사용 가능 여부를 확인할 수 있어요. 본인의 추가 요청과 크레딧 변경 내역도 함께 볼 수 있어요.\n개선\n도레미파 평균 처리 시간\n 대기 시간을 제외하고 실제 처리 시작부터 결과 확인까지의 ‘1건당 평균 처리 시간’을 표시해요. 최근 성공 작업 3건을 기준으로 계산하고, 표본이 부족하면 숫자를 표시하지 않아요.\n신규\n도레미파 예상 대기 시간\n 내 작업이 대기 중이면 처리 순번과 시작까지의 예상 대기 시간을 보여줘요. 앞선 작업 수와 평균 처리 시간을 기준으로 계산한 예상치이며, 내 영상 자체의 처리 시간은 포함하지 않아요.\n신규\n도레미파 처리 시간 추이\n 최근 24시간 동안 처리 시간이 어떻게 달라졌는지 그래프로 확인할 수 있어요. 그래프의 지점을 선택하면 해당 시각의 평균 처리 시간을 볼 수 있어요.\n개선\n도레미파 작업 접수 한도\n 일반형과 Flash를 합쳐 개인 계정당 대기·생성 중인 작업을 한 건까지 접수하도록 정리했어요. 진행 중인 작업이 끝나면 다음 영상을 요청할 수 있고, 여러 탭에서 겹쳐 제출하는 동작도 보완했어요.\n수정\n캔버스 예상 크레딧 조회 지연\n 다른 작업이 같은 입력 자료를 확인하는 동안 캔버스의 예상 크레딧 조회가 오래 대기하던 현상을 줄였어요. 영향을 받지 않는 다른 노드는 계속 예상 크레딧을 계산해요.",
  "banners": [],
- "checked": "2026-11-24T20:33:01.591854+09:00",
+ "checked": "2026-11-25T06:33:12.844311+09:00",
  "fail_day": "2026-11-23",
- "ok": "2026-11-24T20:33:01.591854+09:00"
+ "ok": "2026-11-25T06:33:12.844311+09:00"
 }
